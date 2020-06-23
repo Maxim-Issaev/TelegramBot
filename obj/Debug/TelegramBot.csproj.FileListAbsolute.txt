@@ -1,0 +1,13 @@
+/Users/maxim/Projects/TelegramBot/TelegramBot/bin/Debug/TelegramBot.exe
+/Users/maxim/Projects/TelegramBot/TelegramBot/bin/Debug/TelegramBot.pdb
+/Users/maxim/Projects/TelegramBot/TelegramBot/obj/Debug/TelegramBot.csprojAssemblyReference.cache
+/Users/maxim/Projects/TelegramBot/TelegramBot/obj/Debug/TelegramBot.csproj.CoreCompileInputs.cache
+/Users/maxim/Projects/TelegramBot/TelegramBot/obj/Debug/TelegramBot.exe
+/Users/maxim/Projects/TelegramBot/TelegramBot/obj/Debug/TelegramBot.pdb
+/Users/maxim/Projects/TelegramBot/TelegramBot/bin/Debug/TelegramBot.exe.config
+/Users/maxim/Projects/TelegramBot/TelegramBot/bin/Debug/Newtonsoft.Json.dll
+/Users/maxim/Projects/TelegramBot/TelegramBot/bin/Debug/Telegram.Bot.dll
+/Users/maxim/Projects/TelegramBot/TelegramBot/bin/Debug/Newtonsoft.Json.xml
+/Users/maxim/Projects/TelegramBot/TelegramBot/bin/Debug/Telegram.Bot.xml
+/Users/maxim/Projects/TelegramBot/TelegramBot/obj/Debug/TelegramBot.exe.config
+/Users/maxim/Projects/TelegramBot/TelegramBot/obj/Debug/TelegramBot.csproj.CopyComplete
