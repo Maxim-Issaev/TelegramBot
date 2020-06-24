@@ -42,6 +42,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Logger.cs" />
     <Compile Include="Data.cs" />
+    <Compile Include="CommandController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
